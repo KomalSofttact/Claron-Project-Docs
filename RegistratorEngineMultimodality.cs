@@ -16,7 +16,7 @@ namespace Claron.WIF {
       get;
       set;
     }
-
+    //fujiufiuforiuioetuomj
     /// <summary>
     /// Property to get/set modality of the second series. This property is used to determine
     /// the type of registration to do.
